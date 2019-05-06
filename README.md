@@ -8,20 +8,3 @@ Python script to calculate distances between polygons. Created initially to gene
 * Sci-kit
 * Pandas
 * Geopandas
-
-
-# Installing
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-# Tests
-Break down into end to end tests
-Explain how to run the automated tests for this system
-Explain what these tests test and why
-
-# Author
-Katy Waechter
